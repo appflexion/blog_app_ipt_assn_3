@@ -4,7 +4,11 @@
 This project was made for learning purposes.
 
 <a href="http://appflexion.com/ipt_blog/login">Live Demo</a>
-Login Credentials
-<p>
-email : ali@gmail.com </p>
+<h3>Login Credentials</h3>
+<p> email : ali@gmail.com </p>
 <p> password 123456 </p>
+
+<hr>
+<p> email : mujeeb@gmail.com </p>
+<p> password 123456 </p>
+
