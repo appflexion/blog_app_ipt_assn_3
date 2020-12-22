@@ -7,8 +7,9 @@ This project was made for learning purposes.
 <h3>Login Credentials</h3>
 <p> email : ali@gmail.com </p>
 <p> password 123456 </p>
-
-<hr>
+<br>
 <p> email : mujeeb@gmail.com </p>
 <p> password 123456 </p>
+<hr>
 
+<img src=''>
