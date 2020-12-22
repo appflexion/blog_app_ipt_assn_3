@@ -12,6 +12,6 @@ This project was made for learning purposes.
 <p> password 123456 </p>
 <hr>
 
-<img src="https://raw.githubusercontent.com/appflexion/blog_app_ipt_assn_3/master/public/SS2.JPG" width="500px" height="500px"> 
-
-<img src="https://raw.githubusercontent.com/appflexion/blog_app_ipt_assn_3/master/public/SS1.JPG" width="500px" height="500px"> 
+<img src="https://raw.githubusercontent.com/appflexion/blog_app_ipt_assn_3/master/public/SS2.JPG" width="650px" height="500px"> 
+<br>
+<img src="https://raw.githubusercontent.com/appflexion/blog_app_ipt_assn_3/master/public/SS1.JPG" width="650px" height="500px"> 
